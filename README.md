@@ -1,6 +1,6 @@
 # Imane Ennaji
 
-🎓 Étudiante en 1ème année – Génie Informatique & IA à ENISA Safi  
+🎓 Étudiante en 1ere année cycle d'ingénieure – Génie Informatique & IA à ENISA Safi  
 💻 Passionnée par le développement web, mobile et les modèles d’IA  
 
 ---
@@ -10,7 +10,7 @@
 - **Baccalauréat** – Sciences Physiques  
 - **FST Marrakech** – Filière MIPC (Math, Info, Physique, Chimie) – 1 an  
 - **EST Essaouira** – DUT en Génie Informatique – Mention Très Bien  
-- **ENSA Safi** – Étudiante ingénieur en 1ème année Génie Informatique & IA  
+- **ENSA Safi** – Étudiante ingénieure en 1ème année Génie Informatique & IA  
 
 ---
 
